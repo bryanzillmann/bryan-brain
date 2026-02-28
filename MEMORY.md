@@ -29,4 +29,14 @@ _This is my curated memory — significant events, lessons, context worth keepin
 
 ---
 
+## Brain Files Workflow
+- All brain files are hosted on GitHub: github.com/bryanzillmann/bryan-brain (public)
+- Branch protection on `main` — requires PR with Tony's approval
+- Secrets stripped from repo, stored locally in SECRETS.md (gitignored)
+- Workflow: branch → commit → push → PR → Tony approves → merge → pull to local
+- Set up: 2026-02-28
+
+---
+
 _This grows over time as I learn and remember what matters._
+
