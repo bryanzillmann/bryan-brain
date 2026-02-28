@@ -1,0 +1,12 @@
+# Secrets
+SECRETS.md
+.email-config
+
+# OS
+.DS_Store
+
+# Project folders (not brain files)
+User-Permission-Tracker/
+ps-reference/
+tracker/
+Shared/
